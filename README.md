@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndryAditama
-- 👀 I’m interested in design graphic, UI/UX and all about art
+- 👀 I’m interested in design graphic, UI/UX, Web Developer (Front-End Developer) and all about art
 - 🌱 I’m currently learning frond-end web development
 - 📫 How to reach me (instagram: @xdtmaa)
 <!---
